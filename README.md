@@ -6,7 +6,7 @@ A front-end clone of the Amazon website built using pure HTML, CSS, and JavaScri
 
 ## 📸 Preview
 
-> *(Add a screenshot of your project here after opening it in the browser)*
+![Project Screenshot] (Laptop-UI.png)
 
 ---
 
